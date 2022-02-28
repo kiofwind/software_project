@@ -12,4 +12,4 @@ Museum Roaming System consists of three parts, which will be completed by three 
 ### Group three
 - 场景构建、实时渲染
 - 与场景的交互、运动碰撞
-- 需要学习Unity，建议和第一组一起找一个博物馆参观并实际感受
+- 需要学习Unity，建议和第一组一起，找一个博物馆参观并实际感受
